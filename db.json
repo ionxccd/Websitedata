@@ -1,0 +1,30 @@
+{
+  "featured_post":[
+    {
+      "id": 1,
+      "title": "Church Van",
+      "description":"North Star has arrived!",
+      "uri":"https://i.ibb.co/3ms7Wjh/van2.jpg"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Church Van",
+      "description":"North Star has arrived!",
+      "uri":"https://i.ibb.co/3ms7Wjh/van2.jpg"
+    },
+    {
+      "id":2,
+      "title":"Pavement in Progress!",
+      "description":"God helping us, our next goal is to pave the surroundings of the church.",
+      "uri":"https://i.ibb.co/FWjRnWZ/church-pic.jpg"
+    },
+    {
+      "id":3,
+      "title":"Smile",
+      "description":"Everyone say cheese!",
+      "uri":"https://i.ibb.co/54xrtvS/pic1.jpg"
+    }
+  ]
+}
