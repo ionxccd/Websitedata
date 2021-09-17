@@ -7,12 +7,6 @@
       "uri":"https://i.ibb.co/3ms7Wjh/van2.jpg"
     }
   ],
-  "scroll-images":[
-    "https://i.ibb.co/3ms7Wjh/van2.jpg",
-    "https://i.ibb.co/FWjRnWZ/church-pic.jpg",
-    "https://i.ibb.co/54xrtvS/pic1.jpg"
-
-  ],
   "hymnsSongs":[
     {
       "title":"GHS 1 - All your anxiety",
@@ -38,7 +32,19 @@
     },
     {
       "title":"GHS 2 - Come unto me!",
-      "content":"placeholder\n placeholder"
+      "content":[
+        "1. Hear the blessed Savior calling the oppressed,\n",
+        "Oh, ye heavy-laden, come to Me and rest\n",
+        "Come, no longer tarry, I your load will bear,\n",
+        "Bring Me every burden, bring Me every care.\n\n",
+        "Refrain:\n",
+        "Come unto Me, I will give you rest\n",
+        "Take My yoke upon you, hear Me and be blest\n",
+        "I am meek and lowly, come and trust My might\n",
+        "Come, My yoke is easy, and My burden’s light.\n\n",
+        "2. Are you disappointed, wand’ring here and there,\n"
+
+      ]
     }
   ],
   "posts": [
